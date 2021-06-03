@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration of the afflictions and persecution of the Protestants in the marquisate of Saluce, belonging to the Duke of Savoy shewing the faith and constancie of two martyrs put to death for religion in the said marquisate the 21 of October 1619 : also other letters sent to the King from the reformed churches in France, now assembled at Loudun : with an edict made by the French king the ninth of Nouember last past, wherein the Prince of Conde is declared innocent and thereby enlarged of his imprisonment / translated out of French.</title>
+         </titleStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A11418</idno><idno type="EEBO-CITATION">23993025</idno>
+  <idno type="VID">27066</idno>
+  <idno type="EEBO-PROQUEST">2240910881</idno>
+  <idno type="STC">STC 21673.5</idno>
+  <idno type="STC">ESTC S4876</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A11418)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 27066)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1840:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration of the afflictions and persecution of the Protestants in the marquisate of Saluce, belonging to the Duke of Savoy shewing the faith and constancie of two martyrs put to death for religion in the said marquisate the 21 of October 1619 : also other letters sent to the King from the reformed churches in France, now assembled at Loudun : with an edict made by the French king the ninth of Nouember last past, wherein the Prince of Conde is declared innocent and thereby enlarged of his imprisonment / translated out of French.</title>
+                  <author>France. Sovereign (1610-1643 : Louis XIII)</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ralph Rounthwaite,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1620.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Condé, Henri II de Bourbon, --  prince de, 1588-1646.</term>
+               <term type="topical_term">Persecution --  Italy --  Saluzzo.</term>
+               <term type="geographic_name">France --  History --  Louis XIII, 1610-1643.</term>
+               <term type="geographic_name">France --  Church history --  17th century.</term>
+               <term type="geographic_name">Savoy (France and Italy) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:27066:1"/>
+            <pb facs="tcp:27066:1"/>
+            <p>A DECLARA<g ref="char:EOLhyphen"/>TION OF THE AF<g ref="char:EOLhyphen"/>FLICTIONS AND PERSE<g ref="char:EOLhyphen"/>cution of the Protestants in the <hi>Mar<g ref="char:EOLhyphen"/>quisate of</hi> SALVCE, <hi>belonging to</hi> the Duke of SAVOY.</p>
+            <p>
+               <hi>SHEWING THE FAITH</hi> and Constancie of two Martyrs, put to death for <hi>Religion, in the said Marquisate, the</hi> 21. of October. 1619.</p>
+            <p>Also other Letters sent to the KING, from the reformed Churches in <hi>FRANCE,</hi> now assem<g ref="char:EOLhyphen"/>bled at LOVDVN.</p>
+            <p>
+               <hi>With an Edict made by the French King, the ninth of</hi> Nouember last past: wherein the Prince of CONDE is declared innocent, and thereby enlarged of his imprisonment.</p>
+            <p>Translated out of French.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ralph Rounthwaite.</hi> 1620.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:27066:2"/>
+            <pb facs="tcp:27066:2"/>
+            <head>A LETTER VVRITTEN BY THE PROTESTANTS <hi>in the Marquisate of</hi> Saluce, <hi>belonging to</hi> the soueraigntie of the Duke of <hi>Sauoy,</hi> to the Mini<g ref="char:EOLhyphen"/>sters of the Church of <hi>Geneua;</hi> containing a Declaration of their persecution, and the faith and constancie of two <hi>Martyrs put to death in the said Marquisate for</hi> Religion: The 21. of Octob. 1619. by a Iudgement pronounced against them by the Inquisition, and <hi>the Senate of</hi> PIEMONT.</head>
+            <p>
+               <seg rend="decorInit">S</seg>IRS, the Church in the Marquisate of <hi>Saluce,</hi> in her birth and aduancement hath encountred with many difficul<g ref="char:EOLhyphen"/>ties, and hath endured thousands of af<g ref="char:EOLhyphen"/>flictions, &amp; now lately for an accom<g ref="char:EOLhyphen"/>plishment of her persecution, hath enioyed the crowne of Martyrdome. <hi>Peter Marchisy,</hi> a Notary of <hi>Aceil,</hi> in the vally of <hi>Maire,</hi> a man of good meanes touching worldly substance, &amp; one that had aduan<g ref="char:EOLhyphen"/>ced &amp; furthered the reformed Religiō in that place, saying prayers there in their meetings, &amp; cōducting the Church, was committed to prison in the moneth
+<pb n="2" facs="tcp:27066:3"/>of <hi>Iune</hi> last past, by the Gouemor of <hi>Dronier,</hi> &amp; from thence brought before the Inquisition of <hi>Saluce,</hi> for Religion. After him Sergeant <hi>Maurice Mongie</hi> also of <hi>Aceil,</hi> who all his life time had serued his Highnes in the Warres, for the same cause was put into prison about the beginning of September, as hee sought to procure the others deliuerance. Iudgement to die be<g ref="char:EOLhyphen"/>ing pronounced against them both, because they cō<g ref="char:EOLhyphen"/>fessed that they had assembled, &amp; were present with those of the Religion at prayers, and were (as they termed them) Apostates, and persisted in the refor<g ref="char:EOLhyphen"/>med Religion; After his Highnes departure into <hi>Sa<g ref="char:EOLhyphen"/>uoy,</hi> for the the receiuing and entertainment of the Prin<g ref="char:EOLhyphen"/>cesse of <hi>Piemont;</hi> Vpon the 21. of October, they were both hanged in <hi>Saluce,</hi> about foure of the clocke in the morning, the Monkes all that night hauing ear<g ref="char:EOLhyphen"/>nestly laboured with them to forsake and deny the Religion, whom they most constantly refused, and withstood: <hi>Marchisy</hi> was first led to the Gallowes, who constantly went to his death. They would not suffer him to pray vnto God, nor once speake to the people: for the Executioner stopt his mouth, &amp; one of those that conducted him to the Gibbet still beat him with a Cudgell. His last words were these, <hi>I see the heauens open, and behold the Angels attending for me.</hi> Where vnto a Monke that stood vnder the Gal<g ref="char:EOLhyphen"/>lowes, made answere and said, <hi>Those are the Diuels
+<pb n="3" facs="tcp:27066:3"/>that stay for thee in hell, wicked and damned wretch that thou art.</hi> The executioner still moued him to deny the Religion: but he dyed most constantly and faith<g ref="char:EOLhyphen"/>fully. <hi>Mongie</hi> was brought forth after him, who cryed out, saying, <hi>Be of good courage, companion, wee haue wonne the victory:</hi> and so ioyfully without feare went to his execution: hee likewise was not permit<g ref="char:EOLhyphen"/>ted to pray vnto God, nor to say any other thing, but onely that hee was well knowne in the Prouince of <hi>Piemont</hi> and <hi>Daulphinois,</hi> by all men, to be of an ho<g ref="char:EOLhyphen"/>nest and good conuersation, and that he died wil<g ref="char:EOLhyphen"/>lingly, seeing it was for the name of God. They were both suffered to hang naked vpon the Gibbet vntill night, and they were laid in a Cart, and their bodies carried and buried in a ditch in the way to <hi>Turin.</hi> The Bishop was present at that spectacle sitting in his Carroche; the people beholding the same with many weeping teares. Thus in the space of halfe an houre, our Church obtained the honour to haue two <hi>Martyrs.</hi> We hope that it will increase by their <hi>ashes,</hi> and that their <hi>innocent bloud</hi> will be a means of Gods mercy toward vs. There was not any Counsellor nor Attourney, that durst once defend or speake in their cause. It is true, that they protested that there was no reason in their Iudgement, and that they ought not to be put to death, but that they durst not write so much: one of our Deputies that was at <hi>Tu<g ref="char:EOLhyphen"/>rin,</hi>
+               <pb n="4" facs="tcp:27066:4"/>to speake for them, and to declare their innocen<g ref="char:EOLhyphen"/>cie, hardly escaped from beeing committed by com<g ref="char:EOLhyphen"/>mandement of the chiefe President <hi>Manon,</hi> &amp; from bearing them company in like sort. VVe begin again the armie of Martyrs, which the mercy of God, and the peace of the Church had restrained, and discon<g ref="char:EOLhyphen"/>tinued for a time. You shall see, if the death of these two faithfull Christians, will become the life of this Church. Those that are yet liuing of our Church, are all in danger of death. A poore Wife of one of them is yet in the Inquisition, &amp; by the voice of the com<g ref="char:EOLhyphen"/>mon people is already in the fire: wee dayly expect her martyrdome. All the rest of the faithfull are ba<g ref="char:EOLhyphen"/>nished, in great feare and doubt to lose both their liues and goods; for we are no more assured of our liues, then those two that are already put to death. All our brethren are massacred in our persons. You shall heere see nothing but our teares, and weeping: but though wee haue lost our friends, and our goods, we haue not lost our faith, nor our hope; and now in the time of this furie and outrage of the enemy, God par<g ref="char:EOLhyphen"/>ticularly sheweth his power. The day before these our two brethren were deliuered out of this earthly prison, <hi>Iohn Virell</hi> also made an escape, and got out of prison: The rest of the prisoners were seduced by torments and threatnings to recant. <hi>Their faith hath failed them,</hi> and by that meanes obtained their liberty
+<pb n="5" facs="tcp:27066:4"/>in this world. We recommend our selues vnto God, and to the prayers of the Church: And are</p>
+            <closer>
+               <signed>
+                  <hi>Your most affectionated brethren, and seruants,</hi> the faithfull members <hi>afflicted in the Marquisate of</hi> Saluce, <hi>&amp; in their names.</hi>
+               </signed>
+               <dateline>From our common banishment, <date>the 25. of October. 1619.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A LETTER WRITTEN TO THE <hi>FRENCH KING, BY THE ASSEMBLY OF</hi> the reformed Churches in France, and the soueraignty of Bearne, permitted by his Maiestie to assemble <hi>together at</hi> LOVDVN.</head>
+            <head type="sub">With an Oration made vnto the said King, by the <hi>Lord Marquis de la Moussay, at Compeigne,</hi> the <hi>23.</hi> of October, <hi>1619.</hi>
+            </head>
+            <p>SIR, the principall and speciall duty wherevnto we acknowledge our selues to be bound, at our assembling heere together in this place, is to ren<g ref="char:EOLhyphen"/>der and yeeld most humble thanks vnto your Roy<g ref="char:EOLhyphen"/>all Maiestie, for the fauor which it hath pleased your Grace to grant vnto vs to assemble together, vnder the bounty thereof, to finde out remedies for our sore and smarting wounds. To the which end wee
+<pb n="6" facs="tcp:27066:5"/>haue sent vnto your Maiestie, the Lord Marquis <hi>de Moussaye,</hi> and <hi>de Chasteauneuf,</hi> together with Messi<g ref="char:EOLhyphen"/>eurs <hi>Banage, de Chazeray,</hi> and <hi>Tessier,</hi> to certifie vnto your Maiestie the great ioy, and entire feeling that we haue in our hearts of your most princely fauour; and withall to present vnto the same, the certain and true assurance of our humble subiection, and most faithfull obedience.</p>
+            <p>But, (may it please your Maiestie,) feeling in our soules and consciences, the true &amp; sincere affections of this obedience and subiection, so liuely rooted and ingraffed therin, we could not without extreme griefe, behold our selues exposed vnto so many iniu<g ref="char:EOLhyphen"/>ries, and contrarie to your Maiesties will and intent, see your Proclamations and Decrees violated and infringed in all places, and in diuers manners, by those that hate vs onely for our Profession, although that by it, besides the lawes of nature, we are taught to obey our King for conscience sake. Therefore we are imboldned hereby to present vnto your Ma<g ref="char:EOLhyphen"/>iestie, our iust supplications and requests, grounded vpon your Proclamations, Decrees, and Declarati<g ref="char:EOLhyphen"/>ons of your will and pleasure, and such as are most necessarie for our support and maintenance, which we most humbly beseech your Maiestie to vouch<g ref="char:EOLhyphen"/>safe to reade, and fauourably to giue your Princely answere therevnto, that beeing maintained and sup<g ref="char:EOLhyphen"/>ported
+<pb n="7" facs="tcp:27066:5"/>by your Royall authoritie, we may liue secu<g ref="char:EOLhyphen"/>red, vnder the benefit of your gracious Edicts, and thereby haue better meanes to yeeld that most hum<g ref="char:EOLhyphen"/>bleseruice which is due &amp; owing vnto your Royall Maiestie.</p>
+            <closer>
+               <signed>By your most humble, and most faithfull seruants and subiects, the Deputies of the reformed Churches in France, and the Soueraigntie of Bearne, assembled by your Gracious permission in <hi>Loudun.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <head>
+               <hi>AN ORATION MADE TO THE KING</hi> BY THE DEPVTIES OF THE REFORMED Churches in <hi>FRANCE,</hi> &amp;c. assembled toge<g ref="char:EOLhyphen"/>ther in LOVDVN.</head>
+            <byline>Pronounced by the Lord Marquis <hi>de Moussay,</hi> at Compeigne, the <hi>23.</hi> of October, <hi>1619.</hi>
+            </byline>
+            <p>
+               <hi>SIR,</hi> it is much, and most exceeding great honour giuen vnto vs, to haue the means at this day, to declare and shew vnto your Maiesty, the most humble thanks, which we yeeld vnto the same, in that it hath pleased your Grace, to giue and grant liberty vnto your subiects of the reformed Religion, to assemble together by their Deputies, from all the parts and soueraigne resorts of your Kingdome.</p>
+            <pb n="8" facs="tcp:27066:6"/>
+            <p> The first duty (may it please your Maiestie) being assembled as they are, they haue thought and estee<g ref="char:EOLhyphen"/>med it to be their parts, to giue vnto your said Maie<g ref="char:EOLhyphen"/>sty, the true assurance of their loyall subiection, obe<g ref="char:EOLhyphen"/>dience, and fidelitie.</p>
+            <p>Which is, and shall alwayes remaine &amp; be as firme and inuiolable in their hearts, vowes, and resolutions for your Maiesties seruice, as it hath already appea<g ref="char:EOLhyphen"/>red, and bin manifested in their fore-passed actions.</p>
+            <p>Which we beseech your Maiestie, most humbly to beleeue concerning vs, and withall to continue the effects of your Royall bounty towards vs, whereof we dayly receiue so many fauours, that wee are for<g ref="char:EOLhyphen"/>ced to acknowledge and confesse, that God by that meanes onely preserueth our estate.</p>
+            <p>The same Bounty, and Princely Clemency, mo<g ref="char:EOLhyphen"/>ueth vs at this time to let your Maiestie vnderstand our iust complaints, to our no small and insupporta<g ref="char:EOLhyphen"/>ble griefe: but the liuely feeling of our mischiefe presseth vs therevnto, and that which is most insup<g ref="char:EOLhyphen"/>portable, is to see and behold, and that in so many pla<g ref="char:EOLhyphen"/>ces, and against your Maiesties will, and Princely in<g ref="char:EOLhyphen"/>tent, the Edicts, and Proclamations of K. <hi>Henry</hi> the Great, your Father of most famous memory decea<g ref="char:EOLhyphen"/>sed, granted vnto vs, and since his death, by your Ma<g ref="char:EOLhyphen"/>iestie so oftentimes confirmed, to bee broken and disanulled.</p>
+            <pb n="9" facs="tcp:27066:6"/>
+            <p> Which is the cause that now most humbly we pro<g ref="char:EOLhyphen"/>strate our selues at your Maiesties feet, with all humi<g ref="char:EOLhyphen"/>litie, to beseech the same, that you would bee pleased strictly to command the entire obseruation of your good will and bounty towards vs to bee maintained and vpholden:</p>
+            <p>In such manner, that your Maiestie being the liue<g ref="char:EOLhyphen"/>ly Image of God on earth, your sacred commande<g ref="char:EOLhyphen"/>ments declared by Edicts, Proclamations, Letters and Commissions, in our fauours and behalfes, may bee religiously executed, and the contradictions re<g ref="char:EOLhyphen"/>pressed in all places of your obedience.</p>
+            <p>Which (it may please your Maiestie) to be aduerti<g ref="char:EOLhyphen"/>sed, we do not desire only for our particular interest: but specially for the preseruation of publike tranquil<g ref="char:EOLhyphen"/>litie, that the same may bee happily continued vnder your Royall authoritie; wherein our support, main<g ref="char:EOLhyphen"/>tenance, and securitie onely consisteth.</p>
+            <p>Which will giue and procure vnto vs a greater meanes, to shew forth the effects of the obedience, that we owe vnto your Maiestie, both by Diuine &amp; humane Law; from the which we can by no earthly power be dispenced withall, and wherein wee know our selues not to be inferiour to any, touching the most dutifull obedience of Subiects for your Maie<g ref="char:EOLhyphen"/>sties seruice: most humbly beseeching your Maiesty, to receiue our Requests comprehended in this first
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:27066:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:27066:7"/>
+               <pb n="10" facs="tcp:27066:8"/>Schedule which we present vnto you, containing but seuen vrgent &amp; most necessarie Articles for our welfare and preseruation.</p>
+            <p>Our hope (most puissant Prince, &amp; our soueraigne Lord) is, in your Bounty &amp; soueraigne Iustice, for the granting of our requests, and of your fauourable an<g ref="char:EOLhyphen"/>swere to our supplications; most humbly beseeching your Maiestie, to command so speedie a dispatch thereof, that it may come vnto our hands before the Assembly be dissolued.</p>
+            <p>In whose name, as also of all your loyall subiects of the reformed Religion, we once againe protest to be, and inviolably to continue your most humble and most obedient Subiects and Seruants, and freely, willingly, and couragiously to imploy our goods, honours, and liues, in your Maiesties seruice, and for the greatnesse and increase of your Princely Crowne and Regall honour.</p>
+         </div>
+         <div type="extract">
+            <head>
+               <hi>AN EXTRACT OF THE ACTS AND</hi> Articles of the generall Assembly of the reformed Chur<g ref="char:EOLhyphen"/>ches of <hi>France,</hi> and the soueraigntie of <hi>Bearne,</hi> now vn<g ref="char:EOLhyphen"/>der the Kings Authoritie gathered at <hi>Loudun,</hi> in <hi>Touraine,</hi> neere <hi>Saumur.</hi>
+            </head>
+            <p>VPon the expresse charge by the reformed Churches of this Kingdome and souer aigntie of <hi>Bearne,</hi> gi<g ref="char:EOLhyphen"/>uen to their Deputies, not to leaue the Assembly,
+<pb n="11" facs="tcp:27066:8"/>till by their most huble intreaties, and supplications to his Maiesly, they haue obtained contentment, vpon the iu<g ref="char:EOLhyphen"/>stice of their demands and complaints; the whole compa<g ref="char:EOLhyphen"/>ny hauing taken particular notice of the affaires concer<g ref="char:EOLhyphen"/>ning the Churches of <hi>France,</hi> and soueraignty of <hi>Bearne,</hi> and found the manifest danger that doth threaten them, if the effect of the Promises made vnto them, by the Pa<g ref="char:EOLhyphen"/>tents, Declarations, Proclamations, &amp; other Graunts and Concessions, as well of his Matesty now raigning, as of o<g ref="char:EOLhyphen"/>ther Kings his Predecessors, wholly necessary to their sub<g ref="char:EOLhyphen"/>sistance, be not furthered, but hindred &amp; delayed: Hauing also foud but too much by their former experience hither<g ref="char:EOLhyphen"/>to, that the iust &amp; necessary things depending fro the exe<g ref="char:EOLhyphen"/>cution, and performance of the said Patents, granted and promised to their Assemblies, and which by the dissoluing of them, haue beene committed to their generall Deputies neere his Maiesty, to sue for an answere, haue alwayes remained without any execution, by the art and cunning of their ill willers, who to this day haue hindred the effect of the good will &amp; inclination of his Maiesty towards them. The company, I say in consequence of the Kings leaue for them so to meet, hath resolued and determined all with one voice, and vnanimous consent; where vnto also were found agreeable the aduices of the particular Deputies of the great Ones of the Religion, to stay together with the grace of God, &amp; not to dissolue the Assembly, till they haue had a gracious answere to their iust demands and com<g ref="char:EOLhyphen"/>plaints;
+<pb n="12" facs="tcp:27066:9"/>with an execution and performance of such things as shall be promised, being necessary to the quiet estate and conseruation of the said Churches; who desire nothing els, but to finde their liberty, and safety, vnder the Authority and subiection of his Maiestie; submitting themselues e<g ref="char:EOLhyphen"/>uery one of the particular Deputies, as well of the Chur<g ref="char:EOLhyphen"/>ches, and of the great Ones, composing the said Assembly, in case of any contradiction of their side, to this present Act and Article, to be declared Periurers, perfidious and de<g ref="char:EOLhyphen"/>testers of the Vnion of the Churches; and vnworthy euer hereafter, to be seen in any generall, or Prouinciall Assem<g ref="char:EOLhyphen"/>bly. Giuen at <hi>Loudun</hi> the <hi>7.</hi> of Decemb. <hi>1619.</hi> Sig<g ref="char:EOLhyphen"/>ned, The Vidame of Chartres President; <hi>Chaure</hi> his Ad<g ref="char:EOLhyphen"/>iunct; <hi>Maleray</hi> and <hi>Chalas</hi> Secretaries.</p>
+         </div>
+         <div type="edict">
+            <head>AN EDICT MADE THE NINTH OF NOVEMBER. 1619.</head>
+            <p>
+               <hi>LEVVIS</hi> by the grace of God, King of <hi>France</hi> and <hi>Nauarre,</hi> To all such as shall these presents see, Health. The disorders not long since past in this Kingdome, haue made it knowne but too much, how farre was stretched the ambition and licentiousnesse of such, who for the honour they had to be neere vs and hold vn<g ref="char:EOLhyphen"/>der vs great Offices and Power, had so farre abused our Name, and Authoritie, to their priuate ends, as if God had not giuen the courage, and strength to punish them, and
+<pb n="13" facs="tcp:27066:9"/>prevent the miseries, &amp; calamities, which did threaten this State, it is likely they had brought it vnto a great and lamentable confusion.</p>
+            <p>And amongst other euils, by them procured, was the im<g ref="char:EOLhyphen"/>prisonment and detention of our most deare and most be<g ref="char:EOLhyphen"/>loued Cousin, the Prince of <hi>CONDE,</hi> first Prince of our Bloud, and first Peere of <hi>France;</hi> To whose liberty, as of it selfe most considerable, before we would fully resolue, we would be carefull exactly to informe our selues, of all the causes where vpon they had taken a pretence for his deten<g ref="char:EOLhyphen"/>tion. Wherein we could finde none other, but the cunning and wicked purposes of such as to the ruine of our State would needs adde the ruine of our said Cousin, and of some other Princes and great Ones in this Kingdome: As also of another side, hauing found that the whole carriage and actions of our said Cousin, haue alwaies beene for the esta<g ref="char:EOLhyphen"/>blishing and strengthning of our Greatnesse, and Authori<g ref="char:EOLhyphen"/>tie, as his duty is; Wee haue thought good to giue him by these presents a publike testimony thereof. <hi>Wherefore,</hi> by the aduice of our Councell, which did assist the Princes of our Bloud, and other Princes &amp; highest Officers of our Crowne, out of our owne meere motion, full power &amp; Roy<g ref="char:EOLhyphen"/>all authoritie; We haue pronounced and declared, pro<g ref="char:EOLhyphen"/>nounce and declare by these presents, vnder our own hand and great Seale, That we hold our said Cousin the Prince of <hi>CONDE,</hi> innocent and guiltlesse of all such things as they would haue laid to his charge, and debase his Honour
+<pb n="14" facs="tcp:27066:10"/>and Reputation, whereupon they had coloured his impri<g ref="char:EOLhyphen"/>sonment, and so <hi>abolished,</hi> reuocated and disanulled, <hi>a<g ref="char:EOLhyphen"/>bolish,</hi> reuocate and disannull all Letters, Declarations, Proclamations, Verdicts, Sentences and Iudgements, if a<g ref="char:EOLhyphen"/>ny there be against our said Cousin, that could hinder, or be of any preiudice vnto him, from the day of his detenti<g ref="char:EOLhyphen"/>on, vnto this present; As also we haue declared, and doe declare, all Informations, Depositions, and Inquiries ther<g ref="char:EOLhyphen"/>upon made, &amp; other Acts therof depending, to be as none, and of none effect: Which Letters, Declarations, Procla<g ref="char:EOLhyphen"/>mations, Verifications, Sentences, Iudgements, &amp; any such Acts and Instruments, Wee command and will haue put out and taken away from the Offices and Records of all our Courts of Parliament, or any other places, where they shall be found, and all to be suppressed, and the memory thereof wholly quenched and abolished, as of a thing neuer done. And desiring graciously to deale with him, as the ranke of his Birth, and his Affection to our seruice doth in<g ref="char:EOLhyphen"/>uite vs thereunto; We will, and Our pleasure is, that our said Cousin may &amp; shal enioy &amp; vse all his charges &amp; go<g ref="char:EOLhyphen"/>uernments, with all the Rights, Prerogatiues &amp; preemi<g ref="char:EOLhyphen"/>nences vnto his ranke belonging, fully as he did before his imprisonment and detention. Therefore doe we straightly charge our trusty &amp; wel-beloued Counsellors, holding our Courts of Parliament, that they cause these presents to be read, published and registred, and of the contents in them, our said Cousin to haue and enioy the full scope; causing
+<pb n="15" facs="tcp:27066:10"/>all troubles and impediments thereunto contrary to cease. And further do we command &amp; straightly enioyne our At<g ref="char:EOLhyphen"/>tourney Generall, to sue &amp; require their enregistration, all other businesses ceasing &amp; left behind. For such is our will and pleasure. In witnesse whereof vnto these presents signed with our owne hand, we haue caused our great Seale to bee opposed. Giuen at <hi>Fontainebelleau</hi> the <hi>9.</hi> of Nouember, in the yeere of grace <hi>1619.</hi> and of our Raigne the <hi>10.</hi> Sig<g ref="char:EOLhyphen"/>ned <hi>Lewis;</hi> and lower, By the King, &amp; lower, <hi>Delomeny,</hi> Secretary of State; and sealed with the great Seale of <hi>France</hi> and <hi>Nauarre.</hi>
+            </p>
+            <p>Afterwards, these were read, published &amp; enregistred in the Court of Parliament, hauing to that purpose heard the Kings Attourny Generall, who did so require. Where<g ref="char:EOLhyphen"/>vpon the Court hath ordained that Autenticall copies ther<g ref="char:EOLhyphen"/>of shal be sent to the Bayliwicks, Seneschalships, &amp; inferior Iurisdictions of the extent of this Court, there to bee read, published, &amp; registrated at the sute &amp; diligence of the sub<g ref="char:EOLhyphen"/>stitutes of the Attourny Generall; vnto all whom the Court doth command to do it, &amp; certifie the Court therof within a moneth: And further doth decree, that al writings contrary to these Patents shalbe suppressed; Prohibiting al persons to haue or keep any of them; &amp; if any are found with them, the Court decrees they shall be apprehended at the sute of the Attourny Generall to answer it, &amp; vnder goe such paine as reason shall require. Giuen in the Parliament of <hi>Paris,</hi> the <hi>26.</hi> of Nouemb. <hi>1619.</hi> Signed, Dutillet.
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:27066:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </p>
+            <pb n="15" facs="tcp:27066:11"/>
+         </div>
+         <div type="document">
+            <pb n="16" facs="tcp:27066:12"/>
+            <head>
+               <hi>A friendly and ioyfull Congratulation made</hi> in the name of the Subiects of FRANCE, vpon the ioy by them conceiued of the Prince of CONDE his releasement out of prison, granted vnto <hi>him by the</hi> KING.</head>
+            <p>WIth exceeding ioy (gracious Prince) wee salute you, as the third Branch &amp; Stock of the Princely House of <hi>Burbon;</hi> the bright shining light of <hi>France:</hi> The true Character of Royal Maiestie, a haughty spirit shewing as high as a Cedar of Libanon, which like another <hi>Alexander</hi> neues con<g ref="char:EOLhyphen"/>ceiued or imagined any other but great matters, who at the age of 16. yeeres ouer came the <hi>Medarians,</hi> a spi<g ref="char:EOLhyphen"/>rit farre surpassing for eloquence &amp; magnanimity the haughty spirit of <hi>Iulius Caesar:</hi> and much excelling the spirit of <hi>Pompey,</hi> for constancie and valor. Hauing vnderstood, that by the Royall pleasure of the Kings Maiestie, you haue left that ominous place, which caused an eclipse of your Greatnesse vnto our eyes: We haue therby conceiued exceeding great ioy, to be<g ref="char:EOLhyphen"/>hold and see you placed again in the Throne of glo<g ref="char:EOLhyphen"/>rie, thereby to re-obtaine your free and pristinate libertie: That we are perswaded that fortune hath past ouer the Riuer of <hi>Eurotas,</hi> to inhabit and dwell heere among vs: and that both heauen and earth are agreed together, in signe of ioy, to make vs heare the pleasant melodie of Lutes, &amp; other instruments, together with
+<pb n="17" facs="tcp:27066:12"/>an Angelicall harmony, sounding Canticles and prai<g ref="char:EOLhyphen"/>ses giuen vnto God for so great a happinesse. <hi>Pliny</hi> teacheth vs to be better pleased and contented with the enioying or your presence, then with all the gold and siluer that may bee gotten and digged out of the most rich Mynes of <hi>Europe:</hi> for that in the presence of a vertuous man, we receiue the flower of the bodie by contemplating his beautie, &amp; the fruit of the soule by his actions. Wee know not the want of the force and violent heat of the Sunne-beames, but when they are in a manner hidden, and with-held from vs, by thicke mists, or darke clouds. The depriuing of our sights from the honor of your presence, hath made vs acknowledge the Greatnesse and Excellencie of your merits, which shall neuer depart out of our hearts, no more thē your praises shal be wanting in our mouths. These words are not the simple words of <hi>Grunius,</hi> of whom S. <hi>Hierome</hi> speaketh: but a publike and com<g ref="char:EOLhyphen"/>mon voice; which as <hi>Pliny</hi> saith, concerneth the par<g ref="char:EOLhyphen"/>ticular, for that the Oracle of God soundeth in the mouth of the world, and the heauens doe not yeeld more copious and variable ecchoes in seuerall places, then the voice of all men in generall doth, which speaketh not by hickcocks with the tongue tyed, nor certaine times like <hi>Psaphons</hi> bird. This ioy and con<g ref="char:EOLhyphen"/>tentment awaketh the people of <hi>France</hi> out of their slumber of griefe, caused by your absence. As <hi>Themi<g ref="char:EOLhyphen"/>stocles</hi>
+               <pb n="18" facs="tcp:27066:13"/>was raised out of sleepe by imaginarie Tri<g ref="char:EOLhyphen"/>umphs; the rehearsall of your rare vertues, are as <hi>Nectar</hi> and <hi>Ambrosia</hi> to the most haughty Spirits of <hi>France.</hi> And as <hi>Antalcides</hi> saith, we cannot sufficient<g ref="char:EOLhyphen"/>ly aduance and extoll the merits of a <hi>Hercules,</hi> for that glory and commendation are the svveet paps of ver<g ref="char:EOLhyphen"/>tue, and the nourishing milke thereof. To cause the honour of your merits melodiously to sound; it be<g ref="char:EOLhyphen"/>hooueth vs rather to borrow some more learned and eloquent tongue, then that of <hi>Pindarus</hi> and <hi>Demost<g ref="char:EOLhyphen"/>henes,</hi> sith that at the report of the merits of your acti<g ref="char:EOLhyphen"/>ons, both heauen and earth take pleasure in the sweet<g ref="char:EOLhyphen"/>nesse thereof; and your flourishing actions being e<g ref="char:EOLhyphen"/>leuated to the highest point of exaltation, all things of necessitie must prostrate themselues at the feet of their merits: as it is said, that in <hi>Sicile</hi> no man may hunt vpon Mount <hi>Aetna,</hi> because of the sweetnesse and great sauour of the Violets that are thereon, which makes the dogs to lose their sent. So our spirits are far too weake, to flye ouer the cloud of your Valour. The actions of the most valourous resemble <hi>Aeneas</hi> Buckler, which represented the whole defence of the Romane Empire, but not all the greatnesse and Maie<g ref="char:EOLhyphen"/>stie thereof: And if, (as <hi>Labotus</hi> of <hi>Lacedemonia</hi> saith) that mens speeches and words should be proportion<g ref="char:EOLhyphen"/>able to the thing which they expresse; How dare we take the same in hand, before the pens of so many
+<pb n="19" facs="tcp:27066:13"/>learned Persnages, when as <hi>Protigenes</hi> durst not draw a line before <hi>Apelles?</hi> Neuerthelesse, being there<g ref="char:EOLhyphen"/>unto moued and pricked forward with the winde of your prosperities, we wil take pen in hand to doe it, al<g ref="char:EOLhyphen"/>though the honour of so great a Prince can not be su<g ref="char:EOLhyphen"/>stained, nor maintained by a simple pen; because ho<g ref="char:EOLhyphen"/>nour is to be spred abroad and enlarged by the merits of a vertuous Prince. It is said, that there is nothing more excellent, then that which is void of vice; ver<g ref="char:EOLhyphen"/>tuous Prince resemble. <hi>Plutarcks</hi> Mountaines, whose tops being most high, and reaching to the cleere and bright ayre, are not subiect to any clouds, mists and dewes. To write &amp; shew forth your merits (most ge<g ref="char:EOLhyphen"/>nerous Prince) we had need of as many learned pens, as there were Painters, to paint <hi>Venus</hi> and <hi>Alexander: Apelles</hi> painted her picture, <hi>Pergoteles</hi> did graue it, and <hi>Lysippus</hi> imbossed it; but our imperfect hands are not fit to be ranked among such excellent workmen: No, it must not be our hands that shall paint or set forth your praises: but your owne vertues, within the ob<g ref="char:EOLhyphen"/>iect of their beauty, will drawe their owne proper I<g ref="char:EOLhyphen"/>mage: as the <hi>Cyrian</hi> virgin <hi>Lala</hi> drew her owne pic<g ref="char:EOLhyphen"/>ture, beholding her selfe in a glasse. And among al the vertues that shine in you, true Frenchmen with white Ensignes &amp; Scarfes haue noted, (as most singular and excellent) the fidelitie and sacred vow, by you made for the obedience, and preseruation of the greatest
+<pb n="20" facs="tcp:27066:14"/>King, and most worthy of life, on whom the Sun at this day casteth her light. That also is the only means, the true intelligence and correspondence that you ought to haue with his Maiesty, for the augmentation of Gods honour, the contentment and seruice of the King, and the good and peace of his Subiects. Vpon this firme &amp; constant trust, we beseech God to blesse the dayes of your life, to multiply and replenish them with a million of benedictions, and to giue vs grace to yeeld vnto you the proofe of our most humble and most affectioned seruice.</p>
+            <closer>
+               <signed>DE BERNARD.</signed>
+            </closer>
+         </div>
+         <div type="list_of_knights">
+            <head>
+               <hi>The names of the Knights of the holy Ghost, which the</hi> King made, and which were called by the Herald of the Order, in the Hall of S<seg rend="sup">t</seg>. <hi>German</hi> the fift <hi>of December.</hi> 1619.</head>
+            <list>
+               <item>MOnsieur, that is the Kings onely Brother.</item>
+               <item>The Earle of Soissons, the second, and hitherto the last Prince of the bloud.</item>
+               <item>The Duke of Guise.</item>
+               <item>The Prince of Ginuile, his brother.</item>
+               <item>The Duke of Mayenne, their Cousin germane.</item>
+               <item>The Duke of Elbeuf, their Cousin; these foure of the House of Lorraine, whereof none would weare that Order euer since the Duke of Guise was caused to be killed at Blois, by <hi>Henry</hi> 3. the Author thereof.</item>
+               <item>The Duke of Vendosme, the eldest of the base sonnes of <hi>Henry</hi> 4. Duke of Longueuille.</item>
+               <pb n="21" facs="tcp:27066:14"/>
+               <item> Duke of Angoulesme, who before was called, Count d'Au<g ref="char:EOLhyphen"/>uergne, base sonne to <hi>Charles</hi> the ninth, but now was an beyre to Madame d'Angoulesme, base daughter to <hi>Henry.</hi>
+               </item>
+               <item>Duke of Montmorancy, all these being either Princes, or at least Dukes and Peeres.</item>
+               <item>Duke of Vsez.</item>
+               <item>Duke of Retz.</item>
+               <item>Duke of Luynes, who is in high fauour with the King: these three, being Dukes, and no Peeres.</item>
+               <item>The Mareschal of Vitty, sonne to the Lord of Vitry, who dyed in England not long since.</item>
+               <item>Mareschal of S. Geran.</item>
+               <item>M. de Cadenet. these two being brothers to the Duke of Luynes.</item>
+               <item>M. de Brantes. these two being brothers to the Duke of Luynes.</item>
+               <item>M. de Blainuille.</item>
+               <item>M. de Crequy, sonne in law to Mareschal Derdigueses.</item>
+               <item>M. de Bassompierre, Brother to the French Embassadours wife, now in England.</item>
+               <item>Count of la Rochefoucault.</item>
+               <item>Count of la Rocheguion.</item>
+               <item>Marques of la Vieunille.</item>
+               <item>Count de Tresmes, sonne to the Lord of Gesures, one of the soure Secretardes of State.</item>
+               <item>M. du Haher, Brother to Mareschal de Vitty.</item>
+               <item>Marquis of Courtanuau, sonne to the Lord of Sounray, who was this Kings Gouernour.</item>
+               <item>M. de Rambouillet.</item>
+               <item>M. de Termes, brother to Mounsieur le Grand.</item>
+               <item>M. de Rambure.</item>
+               <item>M. de Frontenac.</item>
+               <item>M. de Bardes.</item>
+               <item>Marquis de Mony, second sonne to the Duke of Bouillon Man-leusier.</item>
+               <pb n="22" facs="tcp:27066:15"/>
+               <item> M. de <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>Marquis de <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>M. de Vig<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</item>
+               <item>Count de C<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>Collonell d'Ornano.</item>
+               <item>M. du Bellay, King of <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>M. de la Chategneray.</item>
+               <item>M. le grand P<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cuost.</item>
+               <item>M. de Valeirice.</item>
+               <item>M. de Vaucelas.</item>
+               <item>Count de <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>M. de Saint Luc.</item>
+               <item>M. de Bondelles.</item>
+               <item>
+                  <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Count de Rochefort.</item>
+               <item>M. de Rochefort.</item>
+               <item>M. <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tz, the last <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>M. de Montespan.</item>
+               <item>M. de la Curée</item>
+               <item>Count de Laufun.</item>
+               <item>M. de Sancy.</item>
+               <item>M. de Vasse.</item>
+               <item>M. de <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>une.</item>
+               <item>M. D'Andelot.</item>
+               <item>M. de Regny.</item>
+               <item>M. de Bourgueil.</item>
+               <item>M. de Nansey.</item>
+               <item>Cardinall de Retz.</item>
+               <item>Bishop of Carcassonne.</item>
+               <item>Bishop of Marseilles.</item>
+               <item>Bishop of Orleans.</item>
+               <item>Arch-bishop of Tours.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:27066:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
